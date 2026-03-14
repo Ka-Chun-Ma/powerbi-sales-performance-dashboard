@@ -1,19 +1,16 @@
 # Sales Performance Dashboard (Power BI)
 
-A Power BI dashboard built on the **AdventureWorks** sample dataset, focused on sales performance, regional performance, and product/customer analytics. This project was developed as part of guided learning and demonstrates report design, DAX measures, and interactive visualizations suitable for executive and operational use.
+### What this project demonstrates
+
+- **End-to-end Power BI:** data modeling on a multi-table schema (AdventureWorks), DAX measures for KPIs and trends, and report design with clear layout and interactivity.
+- **Executive and operational use:** KPI cards, trend charts, regional map, product/customer drill-down, and what-if style price analysis—built for both at-a-glance and exploratory use.
+- **Portfolio context:** Guided (curriculum-based) project; requirements and structure were given; implementation, DAX, and formatting were done independently.
 
 ---
 
 ## Overview
 
-The dashboard provides a single-pane view of key sales metrics with drill-down and what-if analysis. It is intended as a portfolio piece showing competency in:
-
-- **Data modeling** and relationships (AdventureWorks schema)
-- **DAX** for KPIs, trends, and calculated columns/measures
-- **Report design**: layout, hierarchy, and user-driven exploration
-- **Visualization**: maps, cards, charts, and cross-filtering
-
-**Context:** This was a guided project (curriculum-based) using the standard AdventureWorks dataset. The report structure and requirements were provided; implementation, formatting, and refinement were done independently.
+This dashboard gives a single view of sales performance with drill-down and what-if analysis. It shows competency in data modeling and relationships, DAX (KPIs, trends, calculated logic), report design and hierarchy, and visualization (maps, cards, charts, cross-filtering). The report was built as part of guided learning using the standard AdventureWorks dataset.
 
 ---
 
