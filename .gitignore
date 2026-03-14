@@ -1,0 +1,9 @@
+# OS and editor
+.DS_Store
+Thumbs.db
+*.tmp
+.idea/
+.vscode/
+
+# Power BI local / temp (if any)
+*.pbix.bak
