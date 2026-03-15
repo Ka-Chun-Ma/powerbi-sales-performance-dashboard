@@ -32,6 +32,22 @@ This dashboard gives a single view of sales performance with drill-down and what
 
 ---
 
+## Visual preview
+
+**Page 1 — Executive Dashboard**  
+![Executive Dashboard](screenshots/Page%201%20-%20Exec%20Dashboard.png)
+
+**Page 2 — Regional Map**  
+![Regional Map](screenshots/Page%202%20-%20Map.png)
+
+**Page 3 — Product Detail**  
+![Product Detail](screenshots/Page%203%20-%20Product%20Detail.png)
+
+**Page 4 — Customer Detail**  
+![Customer Detail](screenshots/Page%204%20-%20Customer%20Detail.png)
+
+---
+
 ## Repository Structure
 
 ```
